@@ -1,7 +1,9 @@
 # Nibbler-4-Bit-CPU-experiments
 Sample code for the 4-Bit Nibbler DIY CPU
 
-This program demonstrates some capabilities (and lack of others) of the the 4-Bit  Nibbler CPU board. At first it displays the author's name on the LCD display and then waits for any key input. 
+This program demonstrates some capabilities (and lack of others) of the the 4-Bit Nibbler CPU board. For details on this CPU see http://www.bigmessowires.com/nibbler/
+
+At first it displays the author's name on the LCD display and then waits for any key input. 
 
 Once a key is pressed it shows a 16-bit number in hexadecimal notation in the upper  left of the display and another 16-bit hex number that is added to it approx. once a second.
  
